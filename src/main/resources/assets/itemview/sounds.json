@@ -1,0 +1,8 @@
+{
+  "note_open":  { "sounds": ["itemview:note_open"] },
+  "note_close": { "sounds": ["itemview:note_close"] },
+  "photo_open": { "sounds": ["itemview:photo_open"] },
+  "scribble":   { "sounds": ["itemview:scribble"] },
+  "pick":       { "sounds": ["itemview:pick"] },
+  "ambient":    { "sounds": ["itemview:ambient"] }
+}

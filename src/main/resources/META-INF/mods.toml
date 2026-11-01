@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="itemview"
+version="1.0.0"
+displayName="Item Inspector"
+description='''Creative-only item that opens a 3D item inspection screen with a custom description.'''
+
+[[dependencies.itemview]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.itemview]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
